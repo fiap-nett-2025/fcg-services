@@ -1,0 +1,9 @@
+[submodule "games-api"]
+	path = games-api
+	url = https://github.com/fiap-nett-2025/fcg-games-api
+[submodule "users-api"]
+	path = users-api
+	url = https://github.com/fiap-nett-2025/fcg-user-api
+[submodule "payments-api"]
+	path = payments-api
+	url = https://github.com/fiap-nett-2025/fcg-payments-api
